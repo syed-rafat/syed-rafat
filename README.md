@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
 
+<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en" alt="ChijiokeOkorji's" />
+
 <div align="center">
   <a href="mailto:hoqrafat@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
