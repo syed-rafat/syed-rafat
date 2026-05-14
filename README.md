@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
 
 <div align="center">
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoqrafat@gmail.com)
+  <a href="mailto:hoqrafat@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
   <a href="https://www.linkedin.com/in/syed-rafat-872bbb213/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
