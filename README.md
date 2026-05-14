@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **syed-rafat/syed-rafat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,3 +24,14 @@ Here are some ideas to get you started:
 </h1>
 
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+
+<div align="center">
+  <a href="hoqrafat@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/syed-rafat-872bbb213/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  
+  
+</div>
